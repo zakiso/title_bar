@@ -1,9 +1,9 @@
 name: title_bar
 description: Flutter plugin for changing title_bar on go-flutter
-author: zephylac
-homepage: https://github.com/zephylac/title_bar/
-repository: https://github.com/zephylac/title_bar/
-issue_tracker: https://github.com/zephylac/title_bar/issues/
+author: zakiso
+homepage: https://github.com/zakiso/title_bar/
+repository: https://github.com/zakiso/title_bar/
+issue_tracker: https://github.com/zakiso/title_bar/issues/
 version: 0.2.0
 
 dependencies:

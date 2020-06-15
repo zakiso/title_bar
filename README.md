@@ -2,7 +2,7 @@
 
 [![pub package](https://img.shields.io/pub/v/title_bar.svg)](https://pub.dartlang.org/packages/title_bar)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Documentation](https://godoc.org/github.com/zephylac/title_bar?status.svg)](http://godoc.org/github.com/zephylac/title_bar)
+[![Documentation](https://godoc.org/github.com/zakiso/title_bar?status.svg)](http://godoc.org/github.com/zakiso/title_bar)
 
 A Flutter plugin for go-flutter, available for MacOS. It will allow you to customize your title bar by changing the color, name, hiding it, etc.
 
@@ -33,7 +33,7 @@ For help getting started with Flutter, view the online [documentation](https://f
 Import as:
 
 ```go
-import "github.com/zephylac/title_bar"
+import "github.com/zakiso/title_bar"
 ```
 
 Then add the following option to your go-flutter [application options](https://github.com/go-flutter-desktop/go-flutter/wiki/Plugin-info):
@@ -44,15 +44,15 @@ flutter.AddPlugin(&title_bar.TitleBarPlugin{}),
 
 ## Changelog
 
-Please see the [changelog](https://github.com/zephylac/title_bar/blob/master/CHANGELOG.md) page to know what's recently changed.
+Please see the [changelog](https://github.com/zakiso/title_bar/blob/master/CHANGELOG.md) page to know what's recently changed.
 
 ## More info
 
-If you want to check the current development status go check [here](https://github.com/zephylac/title_bar/projects/1)
+If you want to check the current development status go check [here](https://github.com/zakiso/title_bar/projects/1)
 
 ## Contributions
 
 Feel free to contribute to this project.
 
-If you find a bug or want a feature, but don't know how to fix/implement it, please fill an [issue](https://github.com/zephylac/title_bar/issues/).
-If you fixed a bug or implemented a feature, please send a pull [request](https://github.com/zephylac/title_bar/pulls/).
+If you find a bug or want a feature, but don't know how to fix/implement it, please fill an [issue](https://github.com/zakiso/title_bar/issues/).
+If you fixed a bug or implemented a feature, please send a pull [request](https://github.com/zakiso/title_bar/pulls/).
