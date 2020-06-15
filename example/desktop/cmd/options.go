@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/go-flutter-desktop/go-flutter"
-	"github.com/zephylac/title_bar"
+	"github.com/zakiso/title_bar"
 )
 
 var options = []flutter.Option{
